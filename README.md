@@ -59,29 +59,24 @@ In here we can give you our project's repo which are open source</i>
 
 #### 🔰 Current Status
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hillard-Har&show_icons=true&include_all_commits=true&theme=monokai&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ts-bots&show_icons=true&include_all_commits=true&theme=monokai&cache_seconds=86400)
 
 ___
 
-#### Most used Language 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillard-Har&layout=compact)](https://github.com/Hillard-har)
-<br />
-<br />
-
-### Channel 
+### CHANNEL
 
 [<p align="center">
 <img src="https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg">](https://telegram.dog/Ts_bots)
-[<img align="center" width="60px"> 
+[<img align="center"> 
 <img src="https://telegra.ph/file/e3ab4f625c580fb605068.jpg">](https://telegram.dog/Ts_bots) 
 
 
-### Support 
+### SUPPORT
 
 [<p align="center">
 <img src="https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg">](https://telegram.dog/Ts_bots_Support)
-[<img align="center" width="400px"> 
+[<img align="center"> 
 <img src="https://telegra.ph/file/e3ab4f625c580fb605068.jpg">](https://telegram.dog/Ts_bots_Support) 
 
 
@@ -91,3 +86,12 @@ ___
 <img src="https://telegra.ph/file/e59cf7c2d8cea81680e46.jpg">](https://telegram.dog/Trackstudio)
 
 ---
+
+
+
+#### Most used Language 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ts-bots&layout=compact)](https://github.com/Ts-bots)
+<br />
+<br />
+
