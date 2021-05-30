@@ -72,13 +72,17 @@ ___
 ### Channel 
 
 [<p align="center">
-<img src="https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg">](https://telegram.dog/Trackstudio)
-
-[<img align="center" width="400px"> 
+<img src="https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg">](https://telegram.dog/Ts_bots)
+[<img align="center" width="60px"> 
 <img src="https://telegra.ph/file/e3ab4f625c580fb605068.jpg">](https://telegram.dog/Ts_bots) 
 
 
 ### Support 
+
+[<p align="center">
+<img src="https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg">](https://telegram.dog/Ts_bots_Support)
+[<img align="center" width="400px"> 
+<img src="https://telegra.ph/file/e3ab4f625c580fb605068.jpg">](https://telegram.dog/Ts_bots_Support) 
 
 
 # <p align="center">Mʀ. A
