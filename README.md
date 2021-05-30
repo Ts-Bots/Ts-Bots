@@ -71,6 +71,8 @@ ___
 
 ### Channel 
 
+[<p align="center">
+<img src="https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg">](https://telegram.dog/Trackstudio)
 
 ### Support 
 
